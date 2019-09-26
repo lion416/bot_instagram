@@ -1,0 +1,25 @@
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Release\Instagram Follow.exe.config
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Release\Instagram Follow.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Release\Instagram Follow.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Release\WebDriver.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Release\WebDriver.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Release\Instagram_Email_Scrape.FrmMain.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Release\Instagram_Email_Scrape.Properties.Resources.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.csproj.GenerateResource.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.csproj.CoreCompileInputs.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.csproj.CopyComplete
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.csprojAssemblyReference.cache
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Release\Instagram Follow.exe.config
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Release\Instagram Follow.exe
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Release\Instagram Follow.pdb
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Release\WebDriver.dll
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Release\WebDriver.xml
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Release\Instagram_Email_Scrape.FrmMain.resources
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Release\Instagram_Email_Scrape.Properties.Resources.resources
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.csproj.GenerateResource.cache
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.csproj.CoreCompileInputs.cache
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.csproj.CopyComplete
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.exe
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Release\Instagram Follow.pdb

@@ -1,0 +1,39 @@
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csprojAssemblyReference.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Debug\Instagram_Email_Scrape.FrmMain.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Debug\Instagram_Email_Scrape.Properties.Resources.resources
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.GenerateResource.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.CoreCompileInputs.cache
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Debug\WebDriver.dll
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Debug\WebDriver.xml
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.CopyComplete
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.exe.config
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.pdb
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.exe
+E:\Work\VC\Bot\09 - Other\other\Instagram\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.pdb
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.exe.config
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.exe
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.pdb
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\WebDriver.dll
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\WebDriver.xml
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram_Email_Scrape.FrmMain.resources
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram_Email_Scrape.Properties.Resources.resources
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.GenerateResource.cache
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.CoreCompileInputs.cache
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.CopyComplete
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.exe
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.pdb
+F:\desktop app\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csprojAssemblyReference.cache
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.exe.config
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.exe
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\Instagram Follow.pdb
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\WebDriver.dll
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\bin\Debug\WebDriver.xml
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csprojAssemblyReference.cache
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram_Email_Scrape.FrmMain.resources
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram_Email_Scrape.Properties.Resources.resources
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.GenerateResource.cache
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.CoreCompileInputs.cache
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.csproj.CopyComplete
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.exe
+D:\bots\instagraom\Instagram Follow\Instagram Follow\Instagram Follow\obj\Debug\Instagram Follow.pdb
